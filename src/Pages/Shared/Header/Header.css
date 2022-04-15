@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Squada+One&display=swap');
+
+.nav-container {
+    background-color: #32CBFF;
+    width: 90%;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.navbar{
+    padding: 0;
+}
+.login{
+    font-family: 'Squada One', cursive;
+}
+.signup{
+    font-family: 'Squada One', cursive;
+}
+
+@media only screen and (max-width: 600px) {
+    .nav-container {
+        background-color: #32CBFF;
+        width: 100%;
+        margin: auto;
+        border-radius: 15px;
+    }
+    .signup{
+        width: 50%;
+        margin-bottom: 15px;
+    }
+    .login{
+        width: 50%;
+        margin-bottom: 15px;
+    }
+}
+
+@media only screen and (device-width: 768px) {
+    .signup{
+        width: 50%;
+        margin-bottom: 15px;
+    }
+    .login{
+        width: 50%;
+    }
+}

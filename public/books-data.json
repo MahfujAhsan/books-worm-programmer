@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "6258c454c56933ab42b68b9c",
+        "name": "Learn JavaScript Quickly",
+        "price": 23.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/9VWHtny/learn-js-quickly.jpg"
+    },
+    {
+        "_id": "6258c4540584f58ea1269cf0",
+        "name": "Eloquent JavaScript",
+        "price": 9.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/c6h8Rm0/eloquent-js.jpg"
+    },
+    {
+        "_id": "6258c4545bc6c5c0bf21af5c",
+        "name": "JavaScript The Good Parts",
+        "price": 11.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/2dwbTwM/js-good-parts.jpg"
+    },
+    {
+        "_id": "6258c4544f1ad2a1380dc100",
+        "name": "Modern JavaScript",
+        "price": 17.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/brZsfd4/morden-js.jpg"
+    },
+    {
+        "_id": "6258c45407b8587805060876",
+        "name": "JavaScript from Beginner to Professional",
+        "price": 21.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/2t6XhK8/js-beg-proff.jpg"
+    },
+    {
+        "_id": "6258c45416f1d1ff55f3b673",
+        "name": "JavaScript & JQuery",
+        "price": 7.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/VqzrxP0/js-and-juery.jpg"
+    },
+    {
+        "_id": "6258c454a0d8223493983503",
+        "name": "React In Action",
+        "price": 21.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/p4Dfgvd/react-in-action.png"
+    },
+    {
+        "_id": "6258c4547f95c118676f6d94",
+        "name": "React Explained",
+        "price": 15.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/xh2vzbS/react-explained.jpg"
+    },
+    {
+        "_id": "6258c4544fe3b5ea3a5c483b",
+        "name": "React Cookbook",
+        "price": 7.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/34G6LcT/react-cook-book.jpg"
+    },
+    {
+        "_id": "6258c4549732258097274f36",
+        "name": "Learning React",
+        "price": 13.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/s37tcKg/learning-react.jpg"
+    },
+    {
+        "_id": "6258c4549732258097274f36",
+        "name": "The Road to React",
+        "price": 14.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/yysJCR1/react-road.jpg"
+    },
+    {
+        "_id": "6258c4549732258097274f36",
+        "name": "Beginning React",
+        "price": 17.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/PcxWjkJ/beginning-react.jpg"
+    },
+    {
+        "_id": "6258c454665c7b49b968b912",
+        "name": "Fluent Python",
+        "price": 19.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/9nfHDyd/fluent-python.jpg"
+    },
+    {
+        "_id": "6258c454addbccc67fe9bf26",
+        "name": "Python Crash Course",
+        "price": 7.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/yRkgKsS/python-crush-course.jpg"
+    },
+    {
+        "_id": "6258c4542104f0526d3708fe",
+        "name": "Python Data Science Handbook",
+        "price": 11.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/BPk3mbt/python-data-science.jpg"
+    },
+    {
+        "_id": "6258c454ddb26ee70953f87a",
+        "name": "Python Programming",
+        "price": 13.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/yRKwC2h/python-programming.jpg"
+    },
+    {
+        "_id": "6258c454dbd87d7a84716ed1",
+        "name": "Python The Bible",
+        "price": 12.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/wKTdDbD/python-the-bible.jpg"
+    },
+    {
+        "_id": "6258c45459910891924bec69",
+        "name": "Python Tricks",
+        "price": 24.99,
+        "details": "Quis velit irure aliquip est esse fugiat.",
+        "img": "https://i.ibb.co/Mg1JdFL/python-tricks.jpg"
+    }
+]
